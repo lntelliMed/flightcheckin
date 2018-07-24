@@ -11,7 +11,7 @@
 	Airlines: ${reservation.flight.operatingAirlines}<br />
 	Flight No: ${reservation.flight.flightNumber}<br />
 	Departure City: ${reservation.flight.departureCity}<br />
-	Arrival City: ${reservation.flight.arrivalCity}}<br />
+	Arrival City: ${reservation.flight.arrivalCity}<br />
 	Date of Departure: ${reservation.flight.dateOfDeparture}<br />
 	Estimated Departure Time: ${reservation.flight.estimatedDepartureTime}<br />
 	
